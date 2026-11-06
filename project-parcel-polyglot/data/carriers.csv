@@ -1,0 +1,7 @@
+carrier_id,carrier_name,home_region
+C01,SwiftPost,North
+C02,BlueLane,East
+C03,QuickKargo,South
+C04,Reliant,West
+C05,MetroMove,Central
+C06,FastTrack,North

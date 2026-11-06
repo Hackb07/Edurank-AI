@@ -1,0 +1,56 @@
+parcel_id,reason
+Q000005,"duplicate parcel_id x2, kept last in file"
+Q000042,"duplicate parcel_id x2, kept last in file"
+Q000090,"duplicate parcel_id x2, kept last in file"
+Q000239,"duplicate parcel_id x2, kept last in file"
+Q000257,"duplicate parcel_id x2, kept last in file"
+Q000282,"duplicate parcel_id x2, kept last in file"
+Q000428,"duplicate parcel_id x2, kept last in file"
+Q000539,"duplicate parcel_id x2, kept last in file"
+Q000600,"duplicate parcel_id x2, kept last in file"
+Q000686,"duplicate parcel_id x2, kept last in file"
+Q000750,"duplicate parcel_id x2, kept last in file"
+Q000879,"duplicate parcel_id x2, kept last in file"
+Q001027,"duplicate parcel_id x2, kept last in file"
+Q001060,"duplicate parcel_id x2, kept last in file"
+Q001140,"duplicate parcel_id x2, kept last in file"
+Q001156,"duplicate parcel_id x2, kept last in file"
+Q001175,"duplicate parcel_id x2, kept last in file"
+Q001458,"duplicate parcel_id x2, kept last in file"
+Q001479,"duplicate parcel_id x2, kept last in file"
+Q000061,actual_delivery_date before ship_date (impossible)
+Q000654,actual_delivery_date before ship_date (impossible)
+Q000881,actual_delivery_date before ship_date (impossible)
+Q000889,actual_delivery_date before ship_date (impossible)
+Q001283,actual_delivery_date before ship_date (impossible)
+Q001375,actual_delivery_date before ship_date (impossible)
+Q000083,missing promised_date (cannot assess promise risk)
+Q000113,missing promised_date (cannot assess promise risk)
+Q000116,missing promised_date (cannot assess promise risk)
+Q000123,missing promised_date (cannot assess promise risk)
+Q000144,missing promised_date (cannot assess promise risk)
+Q000266,missing promised_date (cannot assess promise risk)
+Q000273,missing promised_date (cannot assess promise risk)
+Q000430,missing promised_date (cannot assess promise risk)
+Q000462,missing promised_date (cannot assess promise risk)
+Q000467,missing promised_date (cannot assess promise risk)
+Q000584,missing promised_date (cannot assess promise risk)
+Q000657,missing promised_date (cannot assess promise risk)
+Q000741,missing promised_date (cannot assess promise risk)
+Q000766,missing promised_date (cannot assess promise risk)
+Q000860,missing promised_date (cannot assess promise risk)
+Q000877,missing promised_date (cannot assess promise risk)
+Q000924,missing promised_date (cannot assess promise risk)
+Q000928,missing promised_date (cannot assess promise risk)
+Q000976,missing promised_date (cannot assess promise risk)
+Q000993,missing promised_date (cannot assess promise risk)
+Q001070,missing promised_date (cannot assess promise risk)
+Q001103,missing promised_date (cannot assess promise risk)
+Q001119,missing promised_date (cannot assess promise risk)
+Q001213,missing promised_date (cannot assess promise risk)
+Q001252,missing promised_date (cannot assess promise risk)
+Q001353,missing promised_date (cannot assess promise risk)
+Q001372,missing promised_date (cannot assess promise risk)
+Q001458,missing promised_date (cannot assess promise risk)
+Q001460,missing promised_date (cannot assess promise risk)
+Q001466,missing promised_date (cannot assess promise risk)

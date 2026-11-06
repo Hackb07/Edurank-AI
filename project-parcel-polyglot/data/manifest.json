@@ -1,0 +1,30 @@
+{
+  "generated_by": "src/generate_data.js (seeded; byte-reproducible)",
+  "seeds": {
+    "capacity": 20250101,
+    "day1": 42,
+    "day2_update": 7
+  },
+  "files": {
+    "shipments_day1.csv": {
+      "rows": 6078,
+      "labelable": 5821,
+      "late": 1283
+    },
+    "shipments_day2_update.csv": {
+      "rows": 1519,
+      "labelable": 1464,
+      "late": 512
+    },
+    "warehouse_capacity.csv": {
+      "rows": 106
+    },
+    "carriers.csv": {
+      "rows": 6
+    }
+  },
+  "notes": [
+    "Day-2 file drops days_in_transit, adds priority_flag, adds carrier C07 and same_day service.",
+    "W3 true capacity halves in June; capacity file is stale for June weeks 1-2 (see docs/05-day2-update.md)."
+  ]
+}

@@ -1,0 +1,7 @@
+{
+ "primary": "logreg",
+ "logreg": 0.14,
+ "forest": 0.2,
+ "costFn": 25,
+ "costFp": 4
+}

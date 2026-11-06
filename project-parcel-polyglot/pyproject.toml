@@ -1,0 +1,19 @@
+[project]
+name = "parcelrank"
+version = "1.0.0"
+description = "Predict late parcels (polyglot port of Project Parcel): Python ML core + Rust scoring CLI."
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5",
+    "scikit-learn>=1.9",
+]
+
+[tool.uv]
+package = true
+
+[build-system]
+requires = ["uv_build>=0.13,<1.0"]
+build-backend = "uv_build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
